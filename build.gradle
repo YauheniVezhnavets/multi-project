@@ -1,0 +1,24 @@
+plugins {
+    id 'java'
+}
+
+group 'conm.epam'
+version '1.0'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+
+}
+
+test {
+    useJUnitPlatform()
+}
+
+
+
+
+
+
